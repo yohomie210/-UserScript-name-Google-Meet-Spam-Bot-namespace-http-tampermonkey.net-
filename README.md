@@ -1,0 +1,1 @@
+# -UserScript-name-Google-Meet-Spam-Bot-namespace-http-tampermonkey.net-
